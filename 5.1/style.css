@@ -1,0 +1,33 @@
+.row{    
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+}
+.column{
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin-left: 40px;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: maroon;
+}
+
+.green{
+    background-color: seagreen;
+}
+
+.blue{
+    background-color: mediumturquoise;
+}
+.float{
+
+    float:right;
+    width: 30%;
+ 
+ }
